@@ -8,3 +8,6 @@ En esta simulación vamos a intentar subir este fichero README.md al remoto sin 
 cambios previos existentes en el remoto.
 * Situación 2. Añadir en dos instancias locales
  una línea a un mismo fichero.
+ Al hacer el segundo push aparece el conflicto y nos pide que lo resolvamos
+ eligiendo la versión que más nos interese: la ya incorporada al remoto o la que estamos intentando.
+* Situación 3. Ocurre lo mismo aunque el cambio tenga lugar en distintas líneas.
