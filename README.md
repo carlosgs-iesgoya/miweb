@@ -12,4 +12,6 @@ cambios previos existentes en el remoto.
  eligiendo la versión que más nos interese: la ya incorporada al remoto o la que estamos intentando.
 * Situación 3. Ocurre lo mismo aunque el cambio tenga lugar en distintas líneas.
 
-## P02-30 Git tags, localizar versiones
+## P02-40 Git tags, localizar versiones
+
+## P02-50 Ramas
